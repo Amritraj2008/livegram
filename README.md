@@ -7,8 +7,8 @@ A simple feed-back bot written in [Boting](https://github.com/Quiec/Boting). It 
 
 ### Hard
 ```sh
-git clone https://github.com/Quiec/pmChatBot
-cd pmChatBot
+git clone https://github.com/amritraj2008/livegram
+cd livegram
 composer install
 nano .env
 # Create and edit env file #
