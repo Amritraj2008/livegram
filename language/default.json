@@ -1,6 +1,6 @@
 {
 
-    "START": "Hi, {username} You can request a movie or any anime that is not available on @moviescartoonsby_bot. Just type name of movie or anime. We will post it on @moviescartoonsby_bot as soon as possible!",
+    "START": "Hi {}, You can request a movie or any anime that is not available on @moviescartoonsby_bot. Just type name of movie or anime. We will post it on @moviescartoonsby_bot as soon as possible!",
 
     "ERROR_REPLY": "*Please reply an message.*",
 
