@@ -1,8 +1,7 @@
-# pmChatBot
+# livegram
 A simple feed-back bot written in [Boting](https://github.com/Quiec/Boting). It is similar to the Livegram bot.
 
-[🇹🇷 Türkçe](https://github.com/Quiec/pmChatBot/blob/master/README-tr.md) | [🇬🇧 English](https://github.com/Quiec/pmChatBot/blob/master/README.md) 
-## Install
+
 ### Easy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -32,5 +31,3 @@ ADMIN_ID="ID'IN"
 ### /link
 It gives the user's username (if any), and also gives the user a link that can be reached.
 
-## Contact
-[Telegram](https://t.me/fusuf)
